@@ -53,7 +53,7 @@ Help ACIS:
 
 ```bash
 git clone https://github.com/abdulkerim-adem/insurance-risk-analytics.git
-cd insurance-risk-analytics-week3
+cd insurance-risk-analytics
 ```
 ### ✅ 2. Create Virtual Environment
 ```bash
